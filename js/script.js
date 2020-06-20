@@ -72,12 +72,12 @@ var Events = /** @class */ (function (_super) {
 }(Bestlocationintheworld));
 ;
 // Here starts the place where you can fulfill the content with new Variables. Be carefull with the typo, there are 3 different classes that need different arguments
-var dachsteinhutte = new Hutte("Simonyhütte", "4830", "Hallstadt", "img/hutte_simony.jpg", "2018-03-04 19:00", "OAV", "0680 2196 374", "https://www.simonyhuette.com/home.html");
-var duiseehutte = new Hutte("Duisitzkarseehütte", "8971", "Seiterweg2, Schladming", "img/hutte_see.jpg", "2018-08-05 18:00", "Naturfreunde", "0664 9733 684", "https://www.duisitzkar.at");
-var hochschwabhutte = new Hutte("Schiestlhaus", "8621", "St. Ilgen 116, Thörl", "img/hutte_hochschwab.jpg", "2019-08-18 12:00", "OTK", "0699 1081 2199", "http://www.schiestlhaus.at/");
 var dachstein = new Bestlocationintheworld("Hoher Dachstein", "4830", "Dachstein", "img/location_dachstein.jpg", "2018-03-03 14:00");
 var duisee = new Bestlocationintheworld("Duisitzkarsee", "8971", "Schladming", "img/location_see.jpg", "2018-08-04 11:00");
 var hochschwab = new Bestlocationintheworld("Hochschwab", "8621", "Seewiesen", "img/location_hochschwab.jpg", "2019-08-18 13:00");
+var dachsteinhutte = new Hutte("Simonyhütte", "4830", "Hallstadt", "img/hutte_simony.jpg", "2018-03-04 19:00", "OAV", "0680 2196 374", "https://www.simonyhuette.com/home.html");
+var duiseehutte = new Hutte("Duisitzkarseehütte", "8971", "Seiterweg2, Schladming", "img/hutte_see.jpg", "2018-08-05 18:00", "Naturfreunde", "0664 9733 684", "https://www.duisitzkar.at");
+var hochschwabhutte = new Hutte("Schiestlhaus", "8621", "St. Ilgen 116, Thörl", "img/hutte_hochschwab.jpg", "2019-08-18 12:00", "OTK", "0699 1081 2199", "http://www.schiestlhaus.at/");
 var crevace = new Events("Crevace Escape", "4830", "Dachstein Glacier", "img/event_crevace.jpg", "2019-05-31 12:00", "2020.12.31", "08:00", "200 €");
 var backski = new Events("Backcountry Ski", "4830", "Dachstein Rumpler", "img/event_backski.jpg", "2020-05-30 11:00", "2021.01.15", "09:00", "130 €");
 var alpineski = new Events("Alpine Ski", "4830", "Dachstein Kripenstein", "img/event_ski.jpg", "2020-04-29 15:00", "2021.01.16", "12:00", "80 €");

@@ -172,7 +172,7 @@ document.getElementById('container1').innerHTML += arrayplace[i].display()
 
 })
 
-//Here starts the sort function ascending - was said ok on slack to have it on the same page, that I prefer.
+//Here starts the sort function descending - was said ok on slack to have it on the same page, that I prefer.
 
 document.getElementById("descending").addEventListener("click", function (){
 
